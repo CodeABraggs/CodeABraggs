@@ -1,18 +1,84 @@
+# Hi there, I'm **CodeABraggs** 👋
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amithbraggs95@gmail.com) 
+🎓 I'm a **3rd-year Information Science & Engineering** student at **Ramaiah Institute of Technology**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CodeABraggs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CodeABraggs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodeABraggs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💻 Aspiring to become a **Backend Developer** using **Java**, with a passion for building scalable applications and continuously learning new technologies.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeABraggs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌱 Currently exploring backend development, databases, cloud technologies, and software engineering best practices.
 
 ---
-[![](https://komarev.com/ghpvc/?username=CodeABraggs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,html,python,kotlin,r,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,maven,aws,bash,spring,figma,github,powershell,notion" />
+</p>
+
+### Design Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ai,ae,pr" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Java Backend Development
+* Data Structures & Algorithms
+* SQL & Database Design
+* AWS Cloud Fundamentals
+* Git & Version Control
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="www.linkedin.com/in/amith-braggs-788083366" target="_blank">
+    <img src="https://raw.githubusercontent.com/hitheshn208/hitheshn208/refs/heads/main/assets/icons_social/linkedIn.gif" alt="LinkedIn" width="50"/>
+  </a>
+  
+  <a href="mailto:amithbraggs95@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+  <a href="https://leetcode.com/u/Amithraggs/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="50"/>
+  </a>
+</p>
+
+---
+
+## 💡 A Few Things About Me
+
+* ☕ Java enthusiast
+* 📚 Always learning something new
+* 💻 Interested in Backend Development
+* 🚀 Working towards becoming a Software Engineer
+* 🎨 Graphic designer (Posters)
+
+---
+
+⭐ **Thanks for visiting my profile! Feel free to check out my repositories and connect with me.**
