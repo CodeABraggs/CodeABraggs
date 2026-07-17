@@ -19,13 +19,13 @@
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,maven,aws,bash,spring,figma,github,powershell,notion" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,idea,eclipse,maven,aws,bash,spring,androidstudio,figma,github,powershell,notion" />
 </p>
 
 ### Design Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ai,ae,pr" />
+  <img src="https://skillicons.dev/icons?i=ai,ae,pr,blender" />
 </p>
 
 ---
